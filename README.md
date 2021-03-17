@@ -1,2 +1,0 @@
-# GG
-Python_homework
